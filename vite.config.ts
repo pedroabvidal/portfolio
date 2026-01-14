@@ -10,7 +10,7 @@ export default defineConfig({
     tanstackRouter({ target: "react", autoCodeSplitting: true }),
     react(),
   ],
-  base: "/",
+  base: "/teste/",
   build: {
     outDir: "dist",
   },
