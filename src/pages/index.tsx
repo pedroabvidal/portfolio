@@ -1,5 +1,4 @@
 import { Background } from "@/components/Background";
-import { Link } from "@tanstack/react-router";
 import { config } from "@/utils/config";
 export default function Main() {
 	return (
